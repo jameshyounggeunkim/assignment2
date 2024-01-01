@@ -10,4 +10,4 @@ Company Stack Research
 4. Create a new text file called research.txt and include the link to your Google doc inside.
 
 
-https://docs.google.com/document/d/1S2AA1EGknk8jjKwQSTaI2axgOnoSECcEXi9PWiHgQeE/edit
+https://docs.google.com/document/d/1S2AA1EGknk8jjKwQSTaI2axgOnoSECcEXi9PWiHgQeE
