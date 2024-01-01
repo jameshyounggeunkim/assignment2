@@ -1,0 +1,13 @@
+Company Stack Research
+
+
+1. Identify 3 software or technology companies the interest you.
+
+2. Conduct research to figure out some or all of the elements of each company’s technology stack. Check job openings/job descriptions, engineering blogs, and anything else that may have information about what the company uses to write/build it’s software products.
+
+3. Record your findings in a google doc. If you can find information about why the company chose that stack, include that as well.
+
+4. Create a new text file called research.txt and include the link to your Google doc inside.
+
+
+https://docs.google.com/document/d/1S2AA1EGknk8jjKwQSTaI2axgOnoSECcEXi9PWiHgQeE/edit
